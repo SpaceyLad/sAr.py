@@ -8,10 +8,10 @@ This script will connect to a website that generates random users for us to fetc
 https://www.dataquest.io/blog/python-api-tutorial/
 
 
-#### The website API
+#### The website API written by Louella Henry!
 
 https://randomuser.me/
 
-#### A great video to get you started 
+#### A great video to get you started! by StrataScratch
 
 https://youtu.be/fklHBWow8vE
